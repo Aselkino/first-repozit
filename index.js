@@ -7,3 +7,10 @@ console.log(2);
 // git commit -m "Рассылка почты"
 // git add index.js                                      // илменяем документации
 // git commt -m "Добавлено рассылка для телеги"             
+
+
+let user = {
+    www: "gitnub.com",
+    group: "JS",
+    day:"sunday"
+}
